@@ -76,7 +76,7 @@
         "rollup": "2.17.1",
         "typescript": "^1.8.10",
         "typescript3": "npm:typescript@^3.1.6",
-        "uglify-js": "latest"
+        "uglify-js": "3.17.4"
     },
     "ender": "./ender.js",
     "dojoBuild": "package.js",
