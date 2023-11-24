@@ -74,7 +74,7 @@
         "prettier": "latest",
         "qunit": "^2.10.0",
         "rollup": "2.17.1",
-        "typescript": "^1.8.10",
+        "typescript": "^5.2.2",
         "typescript3": "npm:typescript@^3.1.6",
         "uglify-js": "latest"
     },
